@@ -1,0 +1,238 @@
+:root{
+  --bg: #0f0f10;
+  --card: #ffffff;
+  --muted: #6b6f76;
+  --line: rgba(20,20,20,0.10);
+  --shadow: 0 30px 80px rgba(0,0,0,0.35);
+}
+
+*{ box-sizing: border-box; }
+body{ margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+
+.rp-root{
+  min-height: 100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding: 24px;
+  background: radial-gradient(1200px 600px at 50% 10%, rgba(255,255,255,0.12), transparent 60%),
+              #0b0b0c;
+}
+
+.rp-card{
+  width: min(1100px, 100%);
+  background: var(--card);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 640px;
+}
+
+/* LEFT */
+.rp-left{
+  background: #f3f3f3;
+  padding: 46px 56px;
+  position: relative;
+}
+
+.rp-leftTop{
+  display:flex;
+  justify-content:flex-start;
+}
+
+.rp-welcome{
+  font-size: 28px;
+  font-weight: 500;
+  color: #2a2a2a;
+}
+
+.rp-leftCenter{
+  position:absolute;
+  left: 56px;
+  right: 56px;
+  bottom: 70px;
+  display:flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.rp-brand{
+  display:flex;
+  align-items:center;
+  gap: 14px;
+}
+
+.rp-brandMark{
+  font-size: 110px;
+  font-weight: 800;
+  letter-spacing: -2px;
+  color:#111;
+  line-height: 1;
+}
+
+.rp-brandDot{
+  width: 84px;
+  height: 84px;
+  border-radius: 999px;
+  background: #4b2fe1;
+  position: relative;
+  box-shadow: inset 0 0 0 10px #7fe7df;
+}
+.rp-brandDot::before,
+.rp-brandDot::after{
+  content:"";
+  position:absolute;
+  top: 30px;
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  background:#7fe7df;
+}
+.rp-brandDot::before{ left: 26px; }
+.rp-brandDot::after{ right: 26px; }
+.rp-brandDot{
+  display:flex;
+  align-items:flex-end;
+  justify-content:center;
+}
+.rp-brandDot::marker{ content:""; }
+.rp-brandDot span{ display:none; }
+
+.rp-subbrand{
+  font-size: 14px;
+  color: #2b2b2b;
+  opacity: 0.8;
+}
+
+/* RIGHT */
+.rp-right{
+  padding: 46px 56px;
+  background:#fff;
+}
+
+.rp-title{
+  margin: 0 0 26px 0;
+  font-size: 30px;
+  font-weight: 650;
+  color:#111;
+}
+
+.rp-form{
+  display:flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.rp-grid2{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+.rp-field{ display:flex; flex-direction: column; gap: 8px; }
+
+.rp-label{
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: #8a8f97;
+  font-weight: 650;
+}
+
+.rp-input{
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid var(--line);
+  padding: 14px 0;
+  font-size: 16px;
+  outline: none;
+  color:#111;
+  background: transparent;
+}
+
+.rp-input::placeholder{ color: rgba(20,20,20,0.25); }
+
+.rp-select{
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.rp-input:focus{
+  border-bottom-color: rgba(20,20,20,0.35);
+}
+
+.rp-inputError{
+  border-bottom-color: rgba(220, 38, 38, 0.55);
+}
+
+.rp-error{
+  font-size: 12px;
+  color: rgba(220, 38, 38, 0.95);
+}
+
+.rp-serverMsg{
+  margin-top: 4px;
+  font-size: 14px;
+  color:#111;
+  background: rgba(20,20,20,0.04);
+  border: 1px solid rgba(20,20,20,0.08);
+  padding: 10px 12px;
+  border-radius: 10px;
+}
+
+.rp-submit{
+  margin-top: 10px;
+  border: none;
+  width: 100%;
+  padding: 18px 18px;
+  border-radius: 12px;
+  background: #1a1a1b;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 650;
+  cursor: pointer;
+  transition: transform 0.08s ease, opacity 0.15s ease;
+}
+
+.rp-submit:hover{ transform: translateY(-1px); }
+.rp-submit:disabled{
+  opacity: 0.55;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.rp-footnote{
+  margin-top: 6px;
+  font-size: 12px;
+  color: #8a8f97;
+}
+
+.rp-logoImg {
+  width: 170px;
+  height: auto;
+  display: block;
+  margin-top: 18px;
+  object-fit: contain;
+}
+
+/* RESPONSIVE */
+@media (max-width: 920px){
+  .rp-card{
+    grid-template-columns: 1fr;
+    min-height: unset;
+  }
+  .rp-left{
+    min-height: 260px;
+  }
+  .rp-leftCenter{
+    position: static;
+    margin-top: 40px;
+  }
+  .rp-brandMark{ font-size: 86px; }
+  .rp-brandDot{ width: 70px; height: 70px; }
+  .rp-brandDot::before, .rp-brandDot::after{ top: 24px; }
+  .rp-right{ padding: 34px 26px; }
+  .rp-left{ padding: 34px 26px; }
+  .rp-grid2{ grid-template-columns: 1fr; }
+}
