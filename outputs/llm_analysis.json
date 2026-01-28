@@ -1,0 +1,5 @@
+{
+  "llm_analysis": "{\n  \"person_name\": null,\n  \"eduction\": \"passed 12th two months back\",\n  \"employment_status\": null,\n  \"skills\": [\"sports\", \"cricket\"],\n  \"willing_to_work\": true,\n  \"confidence_level\": null,\n  \"remarks\": \"Interested in pursuing a career in sports, specifically cricket; scored 75% in 12th; provided phone number 9998777 for follow-up\"\n}",
+  "model": "gpt-4.1-mini",
+  "api_version": "2024-12-01-preview"
+}

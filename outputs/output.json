@@ -1,0 +1,1708 @@
+{
+  "status_code": 200,
+  "response": {
+    "durationMilliseconds": 105258,
+    "combinedPhrases": [
+      {
+        "text": "Hello, Hello. So we are from the Magic Bus organization. We are looking for some people who are willingly to join our program to get a new job or something like if you are close 12th class and looking for a job, you are a best candidate for us. So do you think you are one of those? OK, yes, yes, I have just passed 12th right now, two months back and I can be here. So what's your age? I am 19 years. OK, that's great. And what do you think you have the most skills like where we can help you train or guide you to get a job? Actually I don't know much about the skills but I can say like I have played lot of sports in the past 10 years and I think I scored 75 percentage in 12th also. I I like to pursue some some career in the sports only. That's cool. So what specific sport have you played in your? I like. I like playing cricket. OK, that's cool. We can help you to become cricket coach or something. OK. And. Other than that, can you provide your phone number please? I mean, can you tell me what? What will happen or what is the process if I provide you the number? So if you provide the phone number, we can help you follow back because we have to take your details then see like what future prospects we can hold you or like what program we can enroll you in. So to give you some feedback or give you some next opportunities we need, we will require your phone number. OK, sure. 9998777. OK, that's cool."
+      }
+    ],
+    "phrases": [
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 960,
+        "durationMilliseconds": 920,
+        "text": "Hello, Hello.",
+        "words": [
+          {
+            "text": "Hello,",
+            "offsetMilliseconds": 960,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "Hello.",
+            "offsetMilliseconds": 1520,
+            "durationMilliseconds": 360
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.73699176
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 2840,
+        "durationMilliseconds": 2200,
+        "text": "So we are from the Magic Bus organization.",
+        "words": [
+          {
+            "text": "So",
+            "offsetMilliseconds": 2840,
+            "durationMilliseconds": 440
+          },
+          {
+            "text": "we",
+            "offsetMilliseconds": 3360,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "are",
+            "offsetMilliseconds": 3480,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "from",
+            "offsetMilliseconds": 3600,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "the",
+            "offsetMilliseconds": 3760,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "Magic",
+            "offsetMilliseconds": 3840,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "Bus",
+            "offsetMilliseconds": 4120,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "organization.",
+            "offsetMilliseconds": 4320,
+            "durationMilliseconds": 720
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.73699176
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 5360,
+        "durationMilliseconds": 10040,
+        "text": "We are looking for some people who are willingly to join our program to get a new job or something like if you are close 12th class and looking for a job, you are a best candidate for us.",
+        "words": [
+          {
+            "text": "We",
+            "offsetMilliseconds": 5360,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "are",
+            "offsetMilliseconds": 5560,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "looking",
+            "offsetMilliseconds": 5640,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "for",
+            "offsetMilliseconds": 6000,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "some",
+            "offsetMilliseconds": 6160,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "people",
+            "offsetMilliseconds": 6320,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "who",
+            "offsetMilliseconds": 6720,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "are",
+            "offsetMilliseconds": 6880,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "willingly",
+            "offsetMilliseconds": 7120,
+            "durationMilliseconds": 480
+          },
+          {
+            "text": "to",
+            "offsetMilliseconds": 7600,
+            "durationMilliseconds": 480
+          },
+          {
+            "text": "join",
+            "offsetMilliseconds": 8160,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "our",
+            "offsetMilliseconds": 8600,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "program",
+            "offsetMilliseconds": 8880,
+            "durationMilliseconds": 560
+          },
+          {
+            "text": "to",
+            "offsetMilliseconds": 9440,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "get",
+            "offsetMilliseconds": 9680,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "a",
+            "offsetMilliseconds": 9880,
+            "durationMilliseconds": 40
+          },
+          {
+            "text": "new",
+            "offsetMilliseconds": 9920,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "job",
+            "offsetMilliseconds": 10240,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "or",
+            "offsetMilliseconds": 10520,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "something",
+            "offsetMilliseconds": 10640,
+            "durationMilliseconds": 480
+          },
+          {
+            "text": "like",
+            "offsetMilliseconds": 11120,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "if",
+            "offsetMilliseconds": 11360,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 11520,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "are",
+            "offsetMilliseconds": 11600,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "close",
+            "offsetMilliseconds": 11680,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "12th",
+            "offsetMilliseconds": 12000,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "class",
+            "offsetMilliseconds": 12360,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "and",
+            "offsetMilliseconds": 12640,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "looking",
+            "offsetMilliseconds": 13200,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "for",
+            "offsetMilliseconds": 13480,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "a",
+            "offsetMilliseconds": 13640,
+            "durationMilliseconds": 40
+          },
+          {
+            "text": "job,",
+            "offsetMilliseconds": 13680,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 14160,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "are",
+            "offsetMilliseconds": 14240,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "a",
+            "offsetMilliseconds": 14360,
+            "durationMilliseconds": 40
+          },
+          {
+            "text": "best",
+            "offsetMilliseconds": 14400,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "candidate",
+            "offsetMilliseconds": 14720,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "for",
+            "offsetMilliseconds": 15120,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "us.",
+            "offsetMilliseconds": 15240,
+            "durationMilliseconds": 160
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.73699176
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 15680,
+        "durationMilliseconds": 1840,
+        "text": "So do you think you are one of those?",
+        "words": [
+          {
+            "text": "So",
+            "offsetMilliseconds": 15680,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "do",
+            "offsetMilliseconds": 15840,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 16000,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "think",
+            "offsetMilliseconds": 16080,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 16600,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "are",
+            "offsetMilliseconds": 16720,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "one",
+            "offsetMilliseconds": 16840,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "of",
+            "offsetMilliseconds": 17120,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "those?",
+            "offsetMilliseconds": 17280,
+            "durationMilliseconds": 240
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.73699176
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 17680,
+        "durationMilliseconds": 6280,
+        "text": "OK, yes, yes, I have just passed 12th right now, two months back and I can be here.",
+        "words": [
+          {
+            "text": "OK,",
+            "offsetMilliseconds": 17680,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "yes,",
+            "offsetMilliseconds": 18080,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "yes,",
+            "offsetMilliseconds": 18400,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "I",
+            "offsetMilliseconds": 18640,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "have",
+            "offsetMilliseconds": 18720,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "just",
+            "offsetMilliseconds": 18880,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "passed",
+            "offsetMilliseconds": 19120,
+            "durationMilliseconds": 440
+          },
+          {
+            "text": "12th",
+            "offsetMilliseconds": 19560,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "right",
+            "offsetMilliseconds": 19920,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "now,",
+            "offsetMilliseconds": 20160,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "two",
+            "offsetMilliseconds": 20640,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "months",
+            "offsetMilliseconds": 20880,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "back",
+            "offsetMilliseconds": 21120,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "and",
+            "offsetMilliseconds": 22080,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "I",
+            "offsetMilliseconds": 23120,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "can",
+            "offsetMilliseconds": 23200,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "be",
+            "offsetMilliseconds": 23600,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "here.",
+            "offsetMilliseconds": 23840,
+            "durationMilliseconds": 120
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.73699176
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 24960,
+        "durationMilliseconds": 1200,
+        "text": "So what's your age?",
+        "words": [
+          {
+            "text": "So",
+            "offsetMilliseconds": 24960,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "what's",
+            "offsetMilliseconds": 25320,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "your",
+            "offsetMilliseconds": 25680,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "age?",
+            "offsetMilliseconds": 25800,
+            "durationMilliseconds": 360
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.73699176
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 26400,
+        "durationMilliseconds": 1040,
+        "text": "I am 19 years.",
+        "words": [
+          {
+            "text": "I",
+            "offsetMilliseconds": 26400,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "am",
+            "offsetMilliseconds": 26600,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "19",
+            "offsetMilliseconds": 26720,
+            "durationMilliseconds": 480
+          },
+          {
+            "text": "years.",
+            "offsetMilliseconds": 27200,
+            "durationMilliseconds": 240
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.73699176
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 27760,
+        "durationMilliseconds": 1040,
+        "text": "OK, that's great.",
+        "words": [
+          {
+            "text": "OK,",
+            "offsetMilliseconds": 27760,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "that's",
+            "offsetMilliseconds": 28000,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "great.",
+            "offsetMilliseconds": 28440,
+            "durationMilliseconds": 360
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.8193504
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 29040,
+        "durationMilliseconds": 6680,
+        "text": "And what do you think you have the most skills like where we can help you train or guide you to get a job?",
+        "words": [
+          {
+            "text": "And",
+            "offsetMilliseconds": 29040,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "what",
+            "offsetMilliseconds": 29720,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "do",
+            "offsetMilliseconds": 29920,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 30120,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "think",
+            "offsetMilliseconds": 30200,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 30400,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "have",
+            "offsetMilliseconds": 30560,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "the",
+            "offsetMilliseconds": 30800,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "most",
+            "offsetMilliseconds": 30960,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "skills",
+            "offsetMilliseconds": 31320,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "like",
+            "offsetMilliseconds": 31680,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "where",
+            "offsetMilliseconds": 32480,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "we",
+            "offsetMilliseconds": 32720,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "can",
+            "offsetMilliseconds": 32800,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "help",
+            "offsetMilliseconds": 33120,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 33440,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "train",
+            "offsetMilliseconds": 33600,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "or",
+            "offsetMilliseconds": 34000,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "guide",
+            "offsetMilliseconds": 34480,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 34920,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "to",
+            "offsetMilliseconds": 35040,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "get",
+            "offsetMilliseconds": 35160,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "a",
+            "offsetMilliseconds": 35520,
+            "durationMilliseconds": 40
+          },
+          {
+            "text": "job?",
+            "offsetMilliseconds": 35560,
+            "durationMilliseconds": 160
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.8193504
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 37200,
+        "durationMilliseconds": 11360,
+        "text": "Actually I don't know much about the skills but I can say like I have played lot of sports in the past 10 years and I think I scored 75 percentage in 12th also.",
+        "words": [
+          {
+            "text": "Actually",
+            "offsetMilliseconds": 37200,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "I",
+            "offsetMilliseconds": 37640,
+            "durationMilliseconds": 40
+          },
+          {
+            "text": "don't",
+            "offsetMilliseconds": 37680,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "know",
+            "offsetMilliseconds": 38080,
+            "durationMilliseconds": 480
+          },
+          {
+            "text": "much",
+            "offsetMilliseconds": 38560,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "about",
+            "offsetMilliseconds": 38880,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "the",
+            "offsetMilliseconds": 39120,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "skills",
+            "offsetMilliseconds": 39200,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "but",
+            "offsetMilliseconds": 39520,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "I",
+            "offsetMilliseconds": 39680,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "can",
+            "offsetMilliseconds": 39760,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "say",
+            "offsetMilliseconds": 39920,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "like",
+            "offsetMilliseconds": 40160,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "I",
+            "offsetMilliseconds": 40560,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "have",
+            "offsetMilliseconds": 40800,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "played",
+            "offsetMilliseconds": 40960,
+            "durationMilliseconds": 480
+          },
+          {
+            "text": "lot",
+            "offsetMilliseconds": 41440,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "of",
+            "offsetMilliseconds": 41760,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "sports",
+            "offsetMilliseconds": 41840,
+            "durationMilliseconds": 560
+          },
+          {
+            "text": "in",
+            "offsetMilliseconds": 42400,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "the",
+            "offsetMilliseconds": 42920,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "past",
+            "offsetMilliseconds": 43000,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "10",
+            "offsetMilliseconds": 43240,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "years",
+            "offsetMilliseconds": 43480,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "and",
+            "offsetMilliseconds": 43840,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "I",
+            "offsetMilliseconds": 44800,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "think",
+            "offsetMilliseconds": 45040,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "I",
+            "offsetMilliseconds": 45320,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "scored",
+            "offsetMilliseconds": 45440,
+            "durationMilliseconds": 560
+          },
+          {
+            "text": "75",
+            "offsetMilliseconds": 46640,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "percentage",
+            "offsetMilliseconds": 47040,
+            "durationMilliseconds": 640
+          },
+          {
+            "text": "in",
+            "offsetMilliseconds": 47680,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "12th",
+            "offsetMilliseconds": 47840,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "also.",
+            "offsetMilliseconds": 48160,
+            "durationMilliseconds": 400
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.8193504
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 50160,
+        "durationMilliseconds": 4880,
+        "text": "I I like to pursue some some career in the sports only.",
+        "words": [
+          {
+            "text": "I",
+            "offsetMilliseconds": 50160,
+            "durationMilliseconds": 40
+          },
+          {
+            "text": "I",
+            "offsetMilliseconds": 50200,
+            "durationMilliseconds": 440
+          },
+          {
+            "text": "like",
+            "offsetMilliseconds": 50640,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "to",
+            "offsetMilliseconds": 51040,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "pursue",
+            "offsetMilliseconds": 51200,
+            "durationMilliseconds": 880
+          },
+          {
+            "text": "some",
+            "offsetMilliseconds": 52960,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "some",
+            "offsetMilliseconds": 53360,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "career",
+            "offsetMilliseconds": 53600,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "in",
+            "offsetMilliseconds": 53960,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "the",
+            "offsetMilliseconds": 54160,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "sports",
+            "offsetMilliseconds": 54240,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "only.",
+            "offsetMilliseconds": 54640,
+            "durationMilliseconds": 400
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 55480,
+        "durationMilliseconds": 640,
+        "text": "That's cool.",
+        "words": [
+          {
+            "text": "That's",
+            "offsetMilliseconds": 55480,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "cool.",
+            "offsetMilliseconds": 55760,
+            "durationMilliseconds": 360
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 56120,
+        "durationMilliseconds": 2680,
+        "text": "So what specific sport have you played in your?",
+        "words": [
+          {
+            "text": "So",
+            "offsetMilliseconds": 56120,
+            "durationMilliseconds": 600
+          },
+          {
+            "text": "what",
+            "offsetMilliseconds": 56800,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "specific",
+            "offsetMilliseconds": 57120,
+            "durationMilliseconds": 480
+          },
+          {
+            "text": "sport",
+            "offsetMilliseconds": 57600,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "have",
+            "offsetMilliseconds": 57920,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 58040,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "played",
+            "offsetMilliseconds": 58240,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "in",
+            "offsetMilliseconds": 58440,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "your?",
+            "offsetMilliseconds": 58640,
+            "durationMilliseconds": 160
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 59200,
+        "durationMilliseconds": 320,
+        "text": "I like.",
+        "words": [
+          {
+            "text": "I",
+            "offsetMilliseconds": 59200,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "like.",
+            "offsetMilliseconds": 59280,
+            "durationMilliseconds": 240
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 59760,
+        "durationMilliseconds": 1120,
+        "text": "I like playing cricket.",
+        "words": [
+          {
+            "text": "I",
+            "offsetMilliseconds": 59760,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "like",
+            "offsetMilliseconds": 59840,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "playing",
+            "offsetMilliseconds": 60160,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "cricket.",
+            "offsetMilliseconds": 60400,
+            "durationMilliseconds": 480
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 61320,
+        "durationMilliseconds": 800,
+        "text": "OK, that's cool.",
+        "words": [
+          {
+            "text": "OK,",
+            "offsetMilliseconds": 61320,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "that's",
+            "offsetMilliseconds": 61440,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "cool.",
+            "offsetMilliseconds": 61760,
+            "durationMilliseconds": 360
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 62120,
+        "durationMilliseconds": 2840,
+        "text": "We can help you to become cricket coach or something.",
+        "words": [
+          {
+            "text": "We",
+            "offsetMilliseconds": 62120,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "can",
+            "offsetMilliseconds": 62240,
+            "durationMilliseconds": 480
+          },
+          {
+            "text": "help",
+            "offsetMilliseconds": 63120,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 63440,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "to",
+            "offsetMilliseconds": 63600,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "become",
+            "offsetMilliseconds": 63680,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "cricket",
+            "offsetMilliseconds": 64080,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "coach",
+            "offsetMilliseconds": 64400,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "or",
+            "offsetMilliseconds": 64600,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "something.",
+            "offsetMilliseconds": 64720,
+            "durationMilliseconds": 240
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 66320,
+        "durationMilliseconds": 200,
+        "text": "OK.",
+        "words": [
+          {
+            "text": "OK.",
+            "offsetMilliseconds": 66320,
+            "durationMilliseconds": 200
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 66520,
+        "durationMilliseconds": 120,
+        "text": "And.",
+        "words": [
+          {
+            "text": "And.",
+            "offsetMilliseconds": 66520,
+            "durationMilliseconds": 120
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 68520,
+        "durationMilliseconds": 3640,
+        "text": "Other than that, can you provide your phone number please?",
+        "words": [
+          {
+            "text": "Other",
+            "offsetMilliseconds": 68520,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "than",
+            "offsetMilliseconds": 68720,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "that,",
+            "offsetMilliseconds": 68880,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "can",
+            "offsetMilliseconds": 69120,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 69400,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "provide",
+            "offsetMilliseconds": 69480,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "your",
+            "offsetMilliseconds": 69760,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "phone",
+            "offsetMilliseconds": 69880,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "number",
+            "offsetMilliseconds": 70000,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "please?",
+            "offsetMilliseconds": 72000,
+            "durationMilliseconds": 160
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 72320,
+        "durationMilliseconds": 1600,
+        "text": "I mean, can you tell me what?",
+        "words": [
+          {
+            "text": "I",
+            "offsetMilliseconds": 72320,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "mean,",
+            "offsetMilliseconds": 72480,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "can",
+            "offsetMilliseconds": 73120,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 73280,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "tell",
+            "offsetMilliseconds": 73360,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "me",
+            "offsetMilliseconds": 73520,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "what?",
+            "offsetMilliseconds": 73640,
+            "durationMilliseconds": 280
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.67022103
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 74200,
+        "durationMilliseconds": 3000,
+        "text": "What will happen or what is the process if I provide you the number?",
+        "words": [
+          {
+            "text": "What",
+            "offsetMilliseconds": 74200,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "will",
+            "offsetMilliseconds": 74480,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "happen",
+            "offsetMilliseconds": 74600,
+            "durationMilliseconds": 520
+          },
+          {
+            "text": "or",
+            "offsetMilliseconds": 75120,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "what",
+            "offsetMilliseconds": 75240,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "is",
+            "offsetMilliseconds": 75440,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "the",
+            "offsetMilliseconds": 75520,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "process",
+            "offsetMilliseconds": 75600,
+            "durationMilliseconds": 480
+          },
+          {
+            "text": "if",
+            "offsetMilliseconds": 76120,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "I",
+            "offsetMilliseconds": 76240,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "provide",
+            "offsetMilliseconds": 76360,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 76680,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "the",
+            "offsetMilliseconds": 76760,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "number?",
+            "offsetMilliseconds": 76880,
+            "durationMilliseconds": 320
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.7499624
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 77440,
+        "durationMilliseconds": 11360,
+        "text": "So if you provide the phone number, we can help you follow back because we have to take your details then see like what future prospects we can hold you or like what program we can enroll you in.",
+        "words": [
+          {
+            "text": "So",
+            "offsetMilliseconds": 77440,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "if",
+            "offsetMilliseconds": 77760,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 78000,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "provide",
+            "offsetMilliseconds": 78080,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "the",
+            "offsetMilliseconds": 78480,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "phone",
+            "offsetMilliseconds": 78560,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "number,",
+            "offsetMilliseconds": 78760,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "we",
+            "offsetMilliseconds": 79160,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "can",
+            "offsetMilliseconds": 79360,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "help",
+            "offsetMilliseconds": 79760,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 80080,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "follow",
+            "offsetMilliseconds": 80160,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "back",
+            "offsetMilliseconds": 80560,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "because",
+            "offsetMilliseconds": 80960,
+            "durationMilliseconds": 480
+          },
+          {
+            "text": "we",
+            "offsetMilliseconds": 81440,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "have",
+            "offsetMilliseconds": 81600,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "to",
+            "offsetMilliseconds": 81760,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "take",
+            "offsetMilliseconds": 81840,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "your",
+            "offsetMilliseconds": 82080,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "details",
+            "offsetMilliseconds": 82200,
+            "durationMilliseconds": 520
+          },
+          {
+            "text": "then",
+            "offsetMilliseconds": 82720,
+            "durationMilliseconds": 400
+          },
+          {
+            "text": "see",
+            "offsetMilliseconds": 83360,
+            "durationMilliseconds": 560
+          },
+          {
+            "text": "like",
+            "offsetMilliseconds": 84440,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "what",
+            "offsetMilliseconds": 84600,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "future",
+            "offsetMilliseconds": 84880,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "prospects",
+            "offsetMilliseconds": 85200,
+            "durationMilliseconds": 560
+          },
+          {
+            "text": "we",
+            "offsetMilliseconds": 85760,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "can",
+            "offsetMilliseconds": 85840,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "hold",
+            "offsetMilliseconds": 86320,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 86560,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "or",
+            "offsetMilliseconds": 86640,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "like",
+            "offsetMilliseconds": 86760,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "what",
+            "offsetMilliseconds": 87280,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "program",
+            "offsetMilliseconds": 87520,
+            "durationMilliseconds": 360
+          },
+          {
+            "text": "we",
+            "offsetMilliseconds": 87880,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "can",
+            "offsetMilliseconds": 88000,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "enroll",
+            "offsetMilliseconds": 88240,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 88480,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "in.",
+            "offsetMilliseconds": 88640,
+            "durationMilliseconds": 160
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.7499624
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 88800,
+        "durationMilliseconds": 4840,
+        "text": "So to give you some feedback or give you some next opportunities we need, we will require your phone number.",
+        "words": [
+          {
+            "text": "So",
+            "offsetMilliseconds": 88800,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "to",
+            "offsetMilliseconds": 88960,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "give",
+            "offsetMilliseconds": 89280,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 89440,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "some",
+            "offsetMilliseconds": 89520,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "feedback",
+            "offsetMilliseconds": 89760,
+            "durationMilliseconds": 440
+          },
+          {
+            "text": "or",
+            "offsetMilliseconds": 90200,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "give",
+            "offsetMilliseconds": 90440,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "you",
+            "offsetMilliseconds": 90600,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "some",
+            "offsetMilliseconds": 90720,
+            "durationMilliseconds": 200
+          },
+          {
+            "text": "next",
+            "offsetMilliseconds": 91200,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "opportunities",
+            "offsetMilliseconds": 91520,
+            "durationMilliseconds": 640
+          },
+          {
+            "text": "we",
+            "offsetMilliseconds": 92160,
+            "durationMilliseconds": 80
+          },
+          {
+            "text": "need,",
+            "offsetMilliseconds": 92240,
+            "durationMilliseconds": 240
+          },
+          {
+            "text": "we",
+            "offsetMilliseconds": 92560,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "will",
+            "offsetMilliseconds": 92680,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "require",
+            "offsetMilliseconds": 92800,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "your",
+            "offsetMilliseconds": 93080,
+            "durationMilliseconds": 120
+          },
+          {
+            "text": "phone",
+            "offsetMilliseconds": 93200,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "number.",
+            "offsetMilliseconds": 93360,
+            "durationMilliseconds": 280
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.7499624
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 94400,
+        "durationMilliseconds": 320,
+        "text": "OK, sure.",
+        "words": [
+          {
+            "text": "OK,",
+            "offsetMilliseconds": 94400,
+            "durationMilliseconds": 160
+          },
+          {
+            "text": "sure.",
+            "offsetMilliseconds": 94560,
+            "durationMilliseconds": 160
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.7499624
+      },
+      {
+        "speaker": 2,
+        "offsetMilliseconds": 96280,
+        "durationMilliseconds": 1800,
+        "text": "9998777.",
+        "words": [
+          {
+            "text": "9998777.",
+            "offsetMilliseconds": 96280,
+            "durationMilliseconds": 1800
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.7499624
+      },
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 101920,
+        "durationMilliseconds": 800,
+        "text": "OK, that's cool.",
+        "words": [
+          {
+            "text": "OK,",
+            "offsetMilliseconds": 101920,
+            "durationMilliseconds": 320
+          },
+          {
+            "text": "that's",
+            "offsetMilliseconds": 102240,
+            "durationMilliseconds": 280
+          },
+          {
+            "text": "cool.",
+            "offsetMilliseconds": 102520,
+            "durationMilliseconds": 200
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.7499624
+      }
+    ]
+  }
+}

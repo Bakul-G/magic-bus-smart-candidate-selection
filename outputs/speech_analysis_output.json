@@ -1,0 +1,10 @@
+{
+  "speech_rate_wpm": 673.3,
+  "pause_ratio": 0.57,
+  "pitch_mean_hz": 177.8,
+  "pitch_variability": 75.2,
+  "energy_variability": 0.0177,
+  "spectral_flux": 0.24,
+  "confidence_score": 3,
+  "cognitive_load_score": 4
+}

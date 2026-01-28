@@ -1,0 +1,28 @@
+{
+  "status_code": 200,
+  "response": {
+    "durationMilliseconds": 85632,
+    "combinedPhrases": [
+      {
+        "text": "60%."
+      }
+    ],
+    "phrases": [
+      {
+        "speaker": 1,
+        "offsetMilliseconds": 23280,
+        "durationMilliseconds": 40,
+        "text": "60%.",
+        "words": [
+          {
+            "text": "60%.",
+            "offsetMilliseconds": 23280,
+            "durationMilliseconds": 40
+          }
+        ],
+        "locale": "en-US",
+        "confidence": 0.4337292
+      }
+    ]
+  }
+}
